@@ -5,10 +5,10 @@ This is a frontend capston project given by the Almabetter which is Flashcard Ge
 
 Click on the link to see my flashcard generator website
 
+https://almabetter-flashcardgenerator.netlify.app/
 
 ## Watch Explanation video on youtube 
 
-https://almabetter-flashcardgenerator.netlify.app/
 
 ## Run Locally
 
