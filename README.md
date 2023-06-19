@@ -63,6 +63,7 @@ This project is created with mainly Reactjs , In this project mainly we have thr
 3) For the viewing Currently created flashcard click on "My flashcard" link this will show all flashcard you created recently
 
 4) For the Viewing Details of flashcard click on "view card" button showes on the flashcard this will show the details of flashcard and number of cards with is's description and also we have "share" button to copy link with all social media icons(Links) working
+5) useing print button user can print flashcard and download button to download flashcard.
 
 ## Features
 
