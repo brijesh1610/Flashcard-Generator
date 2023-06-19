@@ -5,12 +5,30 @@ This is a frontend capston project given by the Almabetter which is Flashcard Ge
 
 Click on the link to see my flashcard generator website
 
-almabetter-flashcardgenerator.netlify.app
+
+## Watch Explanation video on youtube 
+
+https://almabetter-flashcardgenerator.netlify.app/
 
 ## Run Locally
 
 Clone the project
- git clone 
+ git clone https://github.com/brijesh1610/Flashcard-generator
+ 
+ 
+ 
+ 
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
 
 ## Tech Stack
 
@@ -36,6 +54,16 @@ This project is created with mainly Reactjs , In this project mainly we have thr
 
 - FlashcardDetails page : in the page we write a code for displaying Number of cards and details of cards and in the page we also created share popup slide with all social media Link
 
+
+## How To Use
+1) Open flashcard generator will clicking deployment Link
+
+2) Click on the "create New" link and fill up all the input boxes without any Errors and click on "create" button
+
+3) For the viewing Currently created flashcard click on "My flashcard" link this will show all flashcard you created recently
+
+4) For the Viewing Details of flashcard click on "view card" button showes on the flashcard this will show the details of flashcard and number of cards with is's description and also we have "share" button to copy link with all social media icons(Links) working
+
 ## Features
 
 - Add More Input Box (Button)
@@ -54,4 +82,4 @@ This project is created with mainly Reactjs , In this project mainly we have thr
 
 ## 🛠 Skills
 
-Javascript, HTML, CSS, Reactjs ,tailwind css
+Javascript, HTML, CSS, Reactjs ,tailwind css...
