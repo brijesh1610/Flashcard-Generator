@@ -38,7 +38,10 @@ This project is created with mainly Reactjs , In this project mainly we have thr
 - See all (Button)
 - Back Button
 - close button for closing share page
+- download button
+- share sociel media
+- print button
 
 ## 🛠 Skills
 
-Javascript, HTML, CSS, Reactjs...
+Javascript, HTML, CSS, Reactjs ,tailwind css
