@@ -1,6 +1,16 @@
 # Almabetter-Flashcard-Generator
 
 This is a frontend capston project given by the Almabetter which is Flashcard Generator
+## Deployment
+
+Click on the link to see my flashcard generator website
+
+almabetter-flashcardgenerator.netlify.app
+
+## Run Locally
+
+Clone the project
+ git clone 
 
 ## Tech Stack
 
