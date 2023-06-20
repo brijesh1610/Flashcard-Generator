@@ -8,7 +8,7 @@ Click on the link to see my flashcard generator website
 https://almabetter-flashcardgenerator.netlify.app/
 
 ## Watch Explanation video on youtube 
-
+https://www.youtube.com/watch?v=A-WggIR0fic
 
 ## Run Locally
 
