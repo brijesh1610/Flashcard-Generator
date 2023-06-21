@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=A-WggIR0fic
 ## Run Locally
 
 Clone the project
- git clone https://github.com/brijesh1610/Flashcard-generator
+gh repo clone brijesh1610/Flashcard-generator
  
  
  
